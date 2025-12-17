@@ -69,7 +69,7 @@ Send files of any size directly from your device without ever storing anything o
 
 ## Audio Quality Guide
 
-32 kbps, mono - minimally acceptable. Speech is intelligible, but may sound “metallic” and become tiring during long listening sessions. Suitable for saving storage space.
+32 kbps, mono - minimally acceptable. Speech is intelligible, but may sound "metallic" and become tiring during long listening sessions. Suitable for saving storage space.
 
 48-64 kbps, mono - the optimal balance. Clear speech, small file size (about 25-30 MB per hour). This is the standard for many audiobooks and podcasts.
 
